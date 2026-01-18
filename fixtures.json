@@ -1,0 +1,26 @@
+{
+    "23": [
+        {
+            "home": "Team A",
+            "away": "Team B",
+            "date": "25.01.2026 17:00"
+        },
+        {
+            "home": "Team C",
+            "away": "Team D",
+            "date": "25.01.2026 20:00"
+        }
+    ],
+    "24": [
+        {
+            "home": "Team E",
+            "away": "Team F",
+            "date": "01.02.2026 17:00"
+        },
+        {
+            "home": "Team G",
+            "away": "Team H",
+            "date": "01.02.2026 20:00"
+        }
+    ]
+}

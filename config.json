@@ -1,66 +1,21 @@
 {
+    "league": {
+        "name": "Superliga Romania",
+        "country": "Romania",
+        "flashscore_id": "romania/superliga"
+    },
+    "matchdays": {
+        "start": 23,
+        "end": 28
+    },
     "players": [
         "Player1",
         "Player2",
         "Player3",
         "Player4"
     ],
-    "matches": [
-        {
-            "home": "Team A",
-            "away": "Team B",
-            "home_keywords": [
-                "Team A"
-            ],
-            "away_keywords": [
-                "Team B"
-            ],
-            "predictions": {
-                "Player1": [
-                    2,
-                    1
-                ],
-                "Player2": [
-                    1,
-                    1
-                ],
-                "Player3": [
-                    0,
-                    2
-                ],
-                "Player4": [
-                    1,
-                    0
-                ]
-            }
-        },
-        {
-            "home": "Team C",
-            "away": "Team D",
-            "home_keywords": [
-                "Team C"
-            ],
-            "away_keywords": [
-                "Team D"
-            ],
-            "predictions": {
-                "Player1": [
-                    0,
-                    0
-                ],
-                "Player2": [
-                    1,
-                    2
-                ],
-                "Player3": [
-                    2,
-                    2
-                ],
-                "Player4": [
-                    1,
-                    1
-                ]
-            }
-        }
-    ]
+    "scoring": {
+        "exact_score": 3,
+        "correct_outcome": 1
+    }
 }
